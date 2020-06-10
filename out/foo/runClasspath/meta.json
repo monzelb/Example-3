@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/macbook/projects/hands-on-scala/example-3/foo/resources",
+        "ref:30c6deb2:/Users/macbook/projects/hands-on-scala/example-3/out/foo/compile/dest/classes",
+        "qref:1a8114c0:/Users/macbook/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+    ],
+    "valueHash": 1245684036,
+    "inputsHash": -1147732727
+}

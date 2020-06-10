@@ -1,0 +1,13 @@
+{
+    "value": {
+        "value": {
+            
+        },
+        "watched": [
+            "ref:c984eca8:/Users/macbook/projects/hands-on-scala/example-3/foo/resources",
+            "ref:dc4c74a0:/Users/macbook/projects/hands-on-scala/example-3/foo/src"
+        ]
+    },
+    "valueHash": -1634969293,
+    "inputsHash": 1562993864
+}

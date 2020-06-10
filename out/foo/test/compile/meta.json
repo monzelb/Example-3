@@ -1,0 +1,8 @@
+{
+    "value": {
+        "analysisFile": "/Users/macbook/projects/hands-on-scala/example-3/out/foo/test/compile/dest/zinc",
+        "classes": "ref:095c85e0:/Users/macbook/projects/hands-on-scala/example-3/out/foo/test/compile/dest/classes"
+    },
+    "valueHash": -229377501,
+    "inputsHash": 1885103230
+}
